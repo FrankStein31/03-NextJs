@@ -45,3 +45,32 @@ Kelas : 4K - RPL TI <br>
 <br>
 
 **TUGAS ======================================** <br>
+**1. Buat halaman baru dengan menggunakan Static Site Generation (SSG) yang menampilkan daftar pengguna dari API https://jsonplaceholder.typicode.com/users. ** <br>
+![image](https://github.com/user-attachments/assets/1403aae9-5825-4964-b48f-3dcae237f426)
+<br>
+![image](https://github.com/user-attachments/assets/c5473959-7720-49bf-b6c3-024727661c10)
+<br>
+
+**2. Implementasikan Dynamic Routes untuk menampilkan detail pengguna berdasarkan ID.** <br>
+![image](https://github.com/user-attachments/assets/4dd48105-f02b-4700-a2c3-122eb603a23d)
+![image](https://github.com/user-attachments/assets/46d27768-8846-44e9-92f6-516bb2e7b2f3)
+<br>
+![image](https://github.com/user-attachments/assets/cad0b062-6ed3-4272-bdd7-2a4fc5410187)
+![image](https://github.com/user-attachments/assets/1050e50b-2d25-4972-b38e-231748a89d33)
+
+**3. Buat API route yang mengembalikan data cuaca dari API eksternal (misalnya, OpenWeatherMap) dan tampilkan data tersebut di halaman front-end.** <br>
+![image](https://github.com/user-attachments/assets/15b6a973-1082-480e-b252-810e00e642c1)
+<br>
+![image](https://github.com/user-attachments/assets/dee8c8ee-3085-4599-a89d-f3b1caed6564)
+![image](https://github.com/user-attachments/assets/e7b78539-e825-4b5c-843e-6322bd4ff5b4)
+![image](https://github.com/user-attachments/assets/90b5ed44-058c-415c-ae50-8883b5b43db8)
+![image](https://github.com/user-attachments/assets/d5862cca-d0c4-4928-bab1-7412ade88424)
+<br>
+![image](https://github.com/user-attachments/assets/8624e454-0538-44fc-a545-39b652cbc206)
+<br>
+![image](https://github.com/user-attachments/assets/96261765-f1e6-4cb2-9a54-59c4263edd95)
+![image](https://github.com/user-attachments/assets/9351818f-4a53-4825-9b5b-23c8077996b3)
+![image](https://github.com/user-attachments/assets/7f9de215-e271-4ea9-8846-cf3ed0186e8b)
+
+
+
