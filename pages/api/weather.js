@@ -9,7 +9,7 @@ export default async function handler(req, res) {
         );
     
         if (!response.ok) {
-            throw new Error('Failed to fetch weather data');
+            throw new Error('Gagal');
         }
         
         const data = await response.json();
@@ -25,6 +25,6 @@ export default async function handler(req, res) {
             wind_speed: data.wind.speed,
         });
     } catch (error) {
-        res.status(500).json({ error: error.message || 'Failed to fetch weather data' });
+        res.status(500).json({ error: error.message || 'Gagal' });
     }
 }

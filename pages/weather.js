@@ -12,14 +12,14 @@ const WeatherPage = () => {
             const res = await fetch(`/api/weather?city=${cityName}`);
             
             if (!res.ok) {
-                throw new Error('Failed to fetch weather data');
+                throw new Error('Gagal');
             }
             
             const data = await res.json();
             setWeatherData(data);
             setError(null);
         } catch (err) {
-            setError(err.message || 'Failed to fetch weather data');
+            setError(err.message || 'Gagal');
             setWeatherData(null);
         } finally {
             setLoading(false);
